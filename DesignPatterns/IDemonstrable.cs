@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPatterns
 {
-    class Program
+    interface IDemonstrable
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Welcome to the FactoryPattern demo");
-        }
     }
 }
